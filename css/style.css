@@ -18,7 +18,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  font-family: "Work Sans", sans-serif;
+  font-family: 'Work Sans', sans-serif;
 }
 .container {
   padding-left: 15px;
@@ -121,7 +121,7 @@ body {
   z-index: 1;
 }
 .header .links ul::before {
-  content: "";
+  content: '';
   border-width: 10px;
   border-style: solid;
   border-color: transparent transparent #f6f6f6 transparent;
@@ -242,7 +242,7 @@ body {
   position: relative;
 }
 .services .services-content .image::before {
-  content: "";
+  content: '';
   background-color: var(--secondary-color);
   width: 100px;
   height: calc(100% + 100px);
@@ -318,7 +318,7 @@ body {
   }
 }
 .about .about-content .image::before {
-  content: "";
+  content: '';
   position: absolute;
   background-color: #ebeced;
   width: 100px;
@@ -329,7 +329,7 @@ body {
 }
 .about .about-content .image::after {
   top: -40px;
-  content: "";
+  content: '';
   position: absolute;
   width: 120px;
   height: 300px;
